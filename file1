@@ -1,3 +1,8 @@
 hi this is file one git github
+<<<<<<< HEAD
 here some line added
 third line here
+=======
+this is online changes 
+0000
+>>>>>>> 33e2cd3a78cdae835d26b6a2b955fa758e626ad5
